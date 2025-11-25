@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a second-year software engineering student at the University of Calgary. <br>I'm passionate about technology, problem-solving, and building innovative solutions through code.
+I'm currently a third-year software engineering student at the University of Calgary. <br>I'm passionate about technology, problem-solving, and building innovative solutions through code.
 
 
 ## 🌐 Socials:
